@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationBootcamp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search_hint">Please enter address</string>
+</resources>
